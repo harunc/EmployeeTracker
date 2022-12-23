@@ -1,0 +1,16 @@
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\bin\Debug\netcoreapp3.1\EmployeeTracker.Data.deps.json
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\bin\Debug\netcoreapp3.1\EmployeeTracker.Data.runtimeconfig.json
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\bin\Debug\netcoreapp3.1\EmployeeTracker.Data.runtimeconfig.dev.json
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\bin\Debug\netcoreapp3.1\EmployeeTracker.Data.dll
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\bin\Debug\netcoreapp3.1\EmployeeTracker.Data.pdb
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\bin\Debug\netcoreapp3.1\EmployeeTracker.Core.dll
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\bin\Debug\netcoreapp3.1\EmployeeTracker.Core.pdb
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\obj\Debug\netcoreapp3.1\EmployeeTracker.Data.csproj.AssemblyReference.cache
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\obj\Debug\netcoreapp3.1\EmployeeTracker.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\obj\Debug\netcoreapp3.1\EmployeeTracker.Data.AssemblyInfoInputs.cache
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\obj\Debug\netcoreapp3.1\EmployeeTracker.Data.AssemblyInfo.cs
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\obj\Debug\netcoreapp3.1\EmployeeTracker.Data.csproj.CoreCompileInputs.cache
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\obj\Debug\netcoreapp3.1\EmployeeTracker.Data.csproj.CopyComplete
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\obj\Debug\netcoreapp3.1\EmployeeTracker.Data.dll
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\obj\Debug\netcoreapp3.1\EmployeeTracker.Data.pdb
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Data\obj\Debug\netcoreapp3.1\EmployeeTracker.Data.genruntimeconfig.cache

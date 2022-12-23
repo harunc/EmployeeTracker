@@ -1,0 +1,15 @@
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\bin\Debug\netcoreapp3.1\EmployeeTracker.Service.deps.json
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\bin\Debug\netcoreapp3.1\EmployeeTracker.Service.dll
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\bin\Debug\netcoreapp3.1\EmployeeTracker.Service.pdb
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\obj\Debug\netcoreapp3.1\EmployeeTracker.Service.csproj.AssemblyReference.cache
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\obj\Debug\netcoreapp3.1\EmployeeTracker.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\obj\Debug\netcoreapp3.1\EmployeeTracker.Service.AssemblyInfoInputs.cache
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\obj\Debug\netcoreapp3.1\EmployeeTracker.Service.AssemblyInfo.cs
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\obj\Debug\netcoreapp3.1\EmployeeTracker.Service.csproj.CoreCompileInputs.cache
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\obj\Debug\netcoreapp3.1\EmployeeTracker.Service.dll
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\obj\Debug\netcoreapp3.1\EmployeeTracker.Service.pdb
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\bin\Debug\netcoreapp3.1\EmployeeTracker.Core.dll
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\bin\Debug\netcoreapp3.1\EmployeeTracker.Data.dll
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\bin\Debug\netcoreapp3.1\EmployeeTracker.Core.pdb
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\bin\Debug\netcoreapp3.1\EmployeeTracker.Data.pdb
+C:\Users\hcifc\source\repos\EmployeeTracker\EmployeeTracker.Service\obj\Debug\netcoreapp3.1\EmployeeTracker.Service.csproj.CopyComplete
